@@ -1,0 +1,47 @@
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  max-width: 700px;
+}
+
+#signin-header {
+  border-radius: 0;
+}
+
+.btn-fb {
+  background-color: #3b5998;
+}
+
+.btn-g {
+  background-color: #db4a39;
+}
+
+.btn-epam {
+  background-color: #CCDC58;
+}
+
+.line {
+  background: #E0DBDB;
+  height: 2px;
+  width: 40%;
+}
+
+.btn-signin {
+  height: 60px;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 650px;
+  padding: 15px;
+  margin: auto;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f5f5f5;
+}
